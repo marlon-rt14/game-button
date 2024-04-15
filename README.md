@@ -22,4 +22,4 @@ Este botón está liberado bajo la [licencia MIT](https://eligelicencia.github.i
 
 ## DEMO
 
-![demo-gif](https://firebasestorage.googleapis.com/v0/b/storage-images-5578f.appspot.com/o/GLOBAL%2Fgame%20button%2Frecording.gif?alt=media&token=6e186a7a-36d2-4dfe-975e-340d8dc55071)
+![demo-gif](https://firebasestorage.googleapis.com/v0/b/storage-images-5578f.appspot.com/o/GLOBAL%2Fgame%20button%2Frecording.gif?alt=media&token=d0aa8441-b861-489b-b724-645b3224d30d)
